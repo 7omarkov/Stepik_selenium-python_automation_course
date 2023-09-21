@@ -9,7 +9,7 @@ import pytest
 
 def test_b12(self):
 
-    link = "http://suninjuly.github.io/registration2.html"
+    link = "http://suninjuly.github.io/registration1.html"
 
     try:
         browser = webdriver.Chrome()
